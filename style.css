@@ -1,0 +1,129 @@
+.header{
+    background-color: rgb(36, 3, 36) ;
+    color: white;
+}
+.div{
+    display: flex;
+    margin-left: 8%;
+}
+.h3{
+    margin-left: 20%;
+}
+.h2{
+    margin-left: 4%;
+}
+.h4{
+    margin-left: 55px;
+}
+.btn{
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+    padding:10px;
+    margin-left: 120%;
+    margin-top: 10px;
+}
+.wel{
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.us{
+    text-align: center;
+    background-color:rgb(102, 105, 105);
+}
+.img{
+    display: flex;
+    margin-left: 18%;
+    margin-top: 30px;
+}
+.sit{
+    margin-left: 33px;
+}
+.even{
+    text-align: center;
+}
+.alt{
+    display: flex;
+}
+.frame{
+    margin-left: 10px;
+}
+.view{
+    /* width: 70px;
+    height: 20px;
+    background-color: antiquewhite; */
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+    padding:10px;
+    margin-left: 120%;
+    margin-top: 10px;
+}
+.div2{
+    background-color: rgb(36, 3, 36);
+    margin-top: 50px;
+}
+.no{
+    text-align: center;
+    color: white;
+}
+.seed{
+    display: flex;
+    background-color: rgb(36, 3, 36);
+    margin-top: 50px;
+}
+.do{
+    background-color: white;
+    margin-left: 20px;
+    height: 35%;
+    width: 18%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.footer{
+    background-color: rgb(36, 3, 36);
+    margin-top: 30px;
+    color: white;
+}
+.head{
+    display: grid;
+    color: white;
+}
+.hand{
+    display: grid;
+    margin-left: 30px;
+    color: white;
+}
+.fun{
+    display: flex;
+    margin-left: 30%;
+}
+.form{
+    margin-left: 30%;
+    padding-bottom: 90px;
+}
+.lss{
+    display: flex;
+    margin-left: 50px;
+}
+.bot{
+    width: 130px;
+    height: 30px;
+    border-radius: 10px;
+}
+.tip{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.input{
+    width: 400px;
+    height: 25px;
+    border-radius: 10px;
+}
+.let{
+    color: white;
+    text-decoration: none;
+}
