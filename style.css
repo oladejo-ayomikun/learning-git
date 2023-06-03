@@ -16,12 +16,31 @@
     margin-left: 55px;
 }
 .btn{
-    width: 130px;
-    height: 40px;
+    width: 140px;
+    height: 30px;
     border-radius: 10px;
     padding:10px;
     margin-left: 120%;
-    margin-top: 10px;
+    padding-top: 20px;
+    color: black;
+    background-color: white;
+}
+.balk{
+    margin-top: 20px;
+    color: black;
+}
+.bts{
+    width: 130px;
+    height: 40;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 20px;
+    color: white;
+    background-color: rgb(70, 58, 58);
+}
+.enrol{
+    padding: 20px;
+    margin-top: 20px;
 }
 .wel{
     margin-left: 50px;
@@ -126,4 +145,15 @@
 .let{
     color: white;
     text-decoration: none;
+}
+.form{
+    text-align: center;
+    margin-right: 20%;
+    margin-top: 20px;
+}
+.label{
+    display: flex;
+}
+.fig{
+    text-align: center;
 }
